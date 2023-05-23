@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FitSync</string>
+    <string name="pricoed">Присоединиться</string>
+    <string name="del_ob">Удалить объявление</string>
+    <string name="zagolovok">Заголовок</string>
+    <string name="op">Описание</string>
+    <string name="vid_sp">Вид спорта</string>
+    <string name="rasp">Расположение</string>
+    <string name="mk">Максимальное количество участников</string>
+    <string name="save">Сохранить</string>
+    <string name="name">Имя</string>
+    <string name="em">Электронная почта</string>
+    <string name="pas">Пароль</string>
+    <string name="log">Войти</string>
+    <string name="reg">Зарегистрироваться</string>
+    <string-array name="sports_array">
+        <item>Бег</item>
+        <item>Футбол</item>
+        <item>Баскетбол</item>
+        <item>Волейбол</item>
+        <item>Теннис</item>
+    </string-array>
+</resources>
